@@ -1,0 +1,8 @@
+D:\C# Project\ArrayShift\ArrayShift\bin\Debug\ArrayShift.exe.config
+D:\C# Project\ArrayShift\ArrayShift\bin\Debug\ArrayShift.exe
+D:\C# Project\ArrayShift\ArrayShift\bin\Debug\ArrayShift.pdb
+D:\C# Project\ArrayShift\ArrayShift\obj\Debug\ArrayShift.csproj.AssemblyReference.cache
+D:\C# Project\ArrayShift\ArrayShift\obj\Debug\ArrayShift.csproj.SuggestedBindingRedirects.cache
+D:\C# Project\ArrayShift\ArrayShift\obj\Debug\ArrayShift.csproj.CoreCompileInputs.cache
+D:\C# Project\ArrayShift\ArrayShift\obj\Debug\ArrayShift.exe
+D:\C# Project\ArrayShift\ArrayShift\obj\Debug\ArrayShift.pdb
