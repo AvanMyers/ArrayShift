@@ -37,14 +37,10 @@ namespace ArrayShift
                 for (int j = 0; j < array.Length - 1; j++)
                 {
                     array[j] = array[j + 1];
-
-                    if (j == array.Length - 2)
-                    {
-                        array[j + 1] = rememberedNumber;
-                    }
                 }
             }
 
+            array[arrayLangth - 1] = rememberedNumber;
             Console.Write("[ ");
 
             for (int i = 0; i < array.Length; i++)

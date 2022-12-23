@@ -6,3 +6,11 @@ D:\C# Project\ArrayShift\ArrayShift\obj\Debug\ArrayShift.csproj.SuggestedBinding
 D:\C# Project\ArrayShift\ArrayShift\obj\Debug\ArrayShift.csproj.CoreCompileInputs.cache
 D:\C# Project\ArrayShift\ArrayShift\obj\Debug\ArrayShift.exe
 D:\C# Project\ArrayShift\ArrayShift\obj\Debug\ArrayShift.pdb
+D:\GItHub\ArrayShift\ArrayShift\ArrayShift\bin\Debug\ArrayShift.exe.config
+D:\GItHub\ArrayShift\ArrayShift\ArrayShift\bin\Debug\ArrayShift.exe
+D:\GItHub\ArrayShift\ArrayShift\ArrayShift\bin\Debug\ArrayShift.pdb
+D:\GItHub\ArrayShift\ArrayShift\ArrayShift\obj\Debug\ArrayShift.csproj.AssemblyReference.cache
+D:\GItHub\ArrayShift\ArrayShift\ArrayShift\obj\Debug\ArrayShift.csproj.SuggestedBindingRedirects.cache
+D:\GItHub\ArrayShift\ArrayShift\ArrayShift\obj\Debug\ArrayShift.csproj.CoreCompileInputs.cache
+D:\GItHub\ArrayShift\ArrayShift\ArrayShift\obj\Debug\ArrayShift.exe
+D:\GItHub\ArrayShift\ArrayShift\ArrayShift\obj\Debug\ArrayShift.pdb
